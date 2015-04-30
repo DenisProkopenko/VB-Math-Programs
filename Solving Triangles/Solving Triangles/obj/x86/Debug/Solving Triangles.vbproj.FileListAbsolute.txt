@@ -1,0 +1,41 @@
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Practice\Solving Triangles\Solving Triangles\bin\Debug\Solving Triangles.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Practice\Solving Triangles\Solving Triangles\bin\Debug\Solving Triangles.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Practice\Solving Triangles\Solving Triangles\bin\Debug\Solving Triangles.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Practice\Solving Triangles\Solving Triangles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Practice\Solving Triangles\Solving Triangles\obj\x86\Debug\WindowsApplication1.frmSolving.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Practice\Solving Triangles\Solving Triangles\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Practice\Solving Triangles\Solving Triangles\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Practice\Solving Triangles\Solving Triangles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Practice\Solving Triangles\Solving Triangles\obj\x86\Debug\Solving Triangles.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Practice\Solving Triangles\Solving Triangles\obj\x86\Debug\Solving Triangles.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Practice\Solving Triangles\Solving Triangles\obj\x86\Debug\Solving Triangles.pdb
+C:\Users\Denis\Desktop\Solving Triangles\Solving Triangles\obj\x86\Debug\Solving Triangles.exe
+C:\Users\Denis\Desktop\Solving Triangles\Solving Triangles\obj\x86\Debug\Solving Triangles.xml
+C:\Users\Denis\Desktop\Solving Triangles\Solving Triangles\obj\x86\Debug\Solving Triangles.pdb
+C:\Users\Denis\Desktop\Solving Triangles\Solving Triangles\bin\Debug\Solving Triangles.exe
+C:\Users\Denis\Desktop\Solving Triangles\Solving Triangles\bin\Debug\Solving Triangles.pdb
+C:\Users\Denis\Desktop\Solving Triangles\Solving Triangles\bin\Debug\Solving Triangles.xml
+C:\Users\Denis\Desktop\Solving Triangles\Solving Triangles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\Solving Triangles\Solving Triangles\obj\x86\Debug\WindowsApplication1.frmSolving.resources
+C:\Users\Denis\Desktop\Solving Triangles\Solving Triangles\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Denis\Desktop\Solving Triangles\Solving Triangles\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Denis\Desktop\Solving Triangles\Solving Triangles\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\Desktop\Solving Triangles\Solving Triangles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\For Teacher\Solving Triangles\Solving Triangles\obj\x86\Debug\Solving Triangles.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\For Teacher\Solving Triangles\Solving Triangles\obj\x86\Debug\Solving Triangles.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\For Teacher\Solving Triangles\Solving Triangles\obj\x86\Debug\Solving Triangles.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\For Teacher\Solving Triangles\Solving Triangles\bin\Debug\Solving Triangles.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\For Teacher\Solving Triangles\Solving Triangles\bin\Debug\Solving Triangles.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\For Teacher\Solving Triangles\Solving Triangles\bin\Debug\Solving Triangles.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\For Teacher\Solving Triangles\Solving Triangles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\For Teacher\Solving Triangles\Solving Triangles\obj\x86\Debug\WindowsApplication1.frmSolving.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\For Teacher\Solving Triangles\Solving Triangles\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\For Teacher\Solving Triangles\Solving Triangles\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\For Teacher\Solving Triangles\Solving Triangles\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\For Teacher\Solving Triangles\Solving Triangles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\Documents\2013\Computer\Projects\For Teacher\Solving Triangles\Solving Triangles\obj\x86\Debug\Solving Triangles.exe
+C:\Users\Denis\Documents\2013\Computer\Projects\For Teacher\Solving Triangles\Solving Triangles\obj\x86\Debug\Solving Triangles.xml
+C:\Users\Denis\Documents\2013\Computer\Projects\For Teacher\Solving Triangles\Solving Triangles\obj\x86\Debug\Solving Triangles.pdb
+C:\Users\Denis\Documents\Programming\Solving Triangles\Solving Triangles\obj\x86\Debug\Solving Triangles.exe
+C:\Users\Denis\Documents\Programming\Solving Triangles\Solving Triangles\obj\x86\Debug\Solving Triangles.xml
+C:\Users\Denis\Documents\Programming\Solving Triangles\Solving Triangles\obj\x86\Debug\Solving Triangles.pdb

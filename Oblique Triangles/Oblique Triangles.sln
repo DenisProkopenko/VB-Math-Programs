@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Oblique Triangles", "Oblique Triangles\Oblique Triangles.vbproj", "{F6C67065-F7BA-4E28-B2B0-950C456A1B0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C67065-F7BA-4E28-B2B0-950C456A1B0C}.Debug|x86.ActiveCfg = Debug|x86
+		{F6C67065-F7BA-4E28-B2B0-950C456A1B0C}.Debug|x86.Build.0 = Debug|x86
+		{F6C67065-F7BA-4E28-B2B0-950C456A1B0C}.Release|x86.ActiveCfg = Release|x86
+		{F6C67065-F7BA-4E28-B2B0-950C456A1B0C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

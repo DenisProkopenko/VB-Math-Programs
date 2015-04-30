@@ -1,0 +1,19 @@
+C:\Users\Denis\Desktop\New folder\Oblique Triangles\Oblique Triangles\bin\Debug\Oblique Triangles.exe
+C:\Users\Denis\Desktop\New folder\Oblique Triangles\Oblique Triangles\bin\Debug\Oblique Triangles.pdb
+C:\Users\Denis\Desktop\New folder\Oblique Triangles\Oblique Triangles\bin\Debug\Oblique Triangles.xml
+C:\Users\Denis\Desktop\New folder\Oblique Triangles\Oblique Triangles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\New folder\Oblique Triangles\Oblique Triangles\obj\x86\Debug\WindowsApplication1.frmInstructions.resources
+C:\Users\Denis\Desktop\New folder\Oblique Triangles\Oblique Triangles\obj\x86\Debug\WindowsApplication1.frmObliqueTriangles.resources
+C:\Users\Denis\Desktop\New folder\Oblique Triangles\Oblique Triangles\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Denis\Desktop\New folder\Oblique Triangles\Oblique Triangles\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Denis\Desktop\New folder\Oblique Triangles\Oblique Triangles\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\Desktop\New folder\Oblique Triangles\Oblique Triangles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\Desktop\New folder\Oblique Triangles\Oblique Triangles\obj\x86\Debug\Oblique Triangles.exe
+C:\Users\Denis\Desktop\New folder\Oblique Triangles\Oblique Triangles\obj\x86\Debug\Oblique Triangles.xml
+C:\Users\Denis\Desktop\New folder\Oblique Triangles\Oblique Triangles\obj\x86\Debug\Oblique Triangles.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\For Teacher\Oblique Triangles\Oblique Triangles\obj\x86\Debug\Oblique Triangles.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\For Teacher\Oblique Triangles\Oblique Triangles\obj\x86\Debug\Oblique Triangles.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\For Teacher\Oblique Triangles\Oblique Triangles\obj\x86\Debug\Oblique Triangles.pdb
+J:\2013\Computer\Projects\For Teacher\Oblique Triangles\Oblique Triangles\obj\x86\Debug\Oblique Triangles.exe
+J:\2013\Computer\Projects\For Teacher\Oblique Triangles\Oblique Triangles\obj\x86\Debug\Oblique Triangles.xml
+J:\2013\Computer\Projects\For Teacher\Oblique Triangles\Oblique Triangles\obj\x86\Debug\Oblique Triangles.pdb
